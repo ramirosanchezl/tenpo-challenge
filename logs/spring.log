@@ -1,0 +1,3 @@
+2023-03-12 01:37:22.221  INFO 10263 --- [main] c.t.challenge.ChallengeApplicationTests  : Starting ChallengeApplicationTests using Java 11.0.14 on WKSAR1422L.local with PID 10263 (started by ramirosanchez in /Users/ramirosanchez/challenge)
+2023-03-12 01:37:22.223  INFO 10263 --- [main] c.t.challenge.ChallengeApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2023-03-12 01:37:24.267  INFO 10263 --- [main] c.t.challenge.ChallengeApplicationTests  : Started ChallengeApplicationTests in 2.605 seconds (JVM running for 3.803)
